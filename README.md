@@ -1,5 +1,7 @@
 # SMS-Message-Spam-Detector
 An end-to-end machine learning NLP application deployed using Flask framework 
+The training dataset from a  [Kaggle SMS Dataset](https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+
 To run this application install the virtual environment, run python app.py and visit http://localhost:5000.
 
 Demo run 1: 
